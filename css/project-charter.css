@@ -1,0 +1,45 @@
+.card {
+  border-radius: 0;
+}
+
+.card-icon {
+  font-size: 1.5rem;
+}
+
+.card-icon {
+  min-width: 15%;
+}
+
+.card-body {
+  padding: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* .resume {
+  display: none;
+}
+
+.bank {
+  display: none;
+}
+
+.booking {
+  display: none;
+} */
+
+@media (max-width: 992px) {
+  .time-line .goal-text {
+    padding-top: 1rem;
+  }
+
+  .time-line .time-line-number {
+    margin-top: 1rem;
+  }
+}

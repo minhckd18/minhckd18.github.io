@@ -1,0 +1,26 @@
+@media screen and (max-width: 576px) {
+  /* Navbar */
+  #nav-bar {
+    height: auto;
+  }
+  #nav-bar ul {
+    display: block;
+    margin-bottom: 0;
+  }
+
+  #nav-bar li {
+    border: none;
+  }
+
+  /* About */
+  #target,
+  #personal-info {
+    padding: 50px;
+    width: 100%;
+  }
+  /* Certificate */
+  #certificate .cert-item {
+    border-right: none !important;
+  }
+  /* Projects */
+}

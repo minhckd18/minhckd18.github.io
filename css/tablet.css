@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  /* Navbar */
+  #avatar {
+    display: none;
+  }
+
+  /* About */
+  #target,
+  #personal-info {
+    padding: 50px 30px;
+  }
+
+  /* Certificate */
+  #certificate .cert-img {
+    max-width: 100%;
+  }
+}
